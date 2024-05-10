@@ -1,0 +1,27 @@
+{
+  "name": "joglo-indo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agil123123/jogloindo.git"
+  },
+  "keywords": [
+    "tea",
+    "challenge",
+    "github",
+    "npmjs",
+    "repository",
+    "airdrop"
+  ],
+  "author": "agil123123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agil123123/jogloindo/issues"
+  },
+  "homepage": "https://github.com/Agil123123/jogloindo#readme"
+}
